@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ConnectednessApproach"]
+	path = ConnectednessApproach
+	url = https://github.com/gabauerdavid/connectednessapproach
+	shallow = true
+	registered = true
